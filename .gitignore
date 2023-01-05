@@ -16,8 +16,26 @@ wp-content/themes/twenty*/
 
 # ignore node dependency directories
 node_modules/
+wp-admin/
+wp-includes/
 
 # ignore log files and databases
 *.log
 *.sql
 *.sqlite
+index.php
+wp-activate.php
+wp-blog-header.php
+wp-comments-post.php
+wp-config.php
+wp-config-sample.php
+wp-cron.php
+wp-links-opml.php
+wp-load.php
+wp-login.php
+wp-mail.php
+wp-settings.php
+wp-signup.php
+wp-trackback.php
+xmlrpc.php
+error_log
